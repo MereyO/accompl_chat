@@ -121,7 +121,7 @@ else:
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
             'NAME': 'chatdb',
-            'USER': 'chatDB',
+            'USER': 'chatdb',
             'PASSWORD': '1234567',
             'HOST': 'localhost',
             'PORT': '',
