@@ -120,7 +120,7 @@ else:
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.postgresql_psycopg2',
-            'NAME': 'chatDB',
+            'NAME': 'chatdb',
             'USER': 'chatDB',
             'PASSWORD': '1234567',
             'HOST': 'localhost',
